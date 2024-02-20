@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aceflores, I'm currently a Senior BI Developer
+- 👋 Hi, I’m @aceflores
 - 👀 I’m interested in data and discovering how to make better decisions leveraging it
 - 🌱 I’m currently learning Python and how to integrate it with common BI tools such as Tableau and Power BI
 - 📫 How to reach me via email and linkedin (@aceflores)
